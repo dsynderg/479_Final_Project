@@ -1,0 +1,3 @@
+I want to test the validity of a photo to translation pipeline
+what is the validity of zero shot prompting in photo to translation
+I will be using zeroshot prompting between spanish and portuguese
