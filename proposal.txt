@@ -1,3 +1,7 @@
 I want to test the validity of a photo to translation pipeline
 what is the validity of zero shot prompting in photo to translation
-I will be using zeroshot prompting between spanish and portuguese
+I will be using zeroshot prompting between spanish and portuguese.
+The goal is to attain a bleu score of 33 between the two languages
+and a comet score of 60.
+I want to achive this by creating omin directional tags using english spanish
+and english portuguese pairs.
