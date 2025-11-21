@@ -17,3 +17,9 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 ~$project proposal.pptx
+1_4million_English_EtoPor.txt
+1_4million_English_EtoS.txt
+1_4million_Portuguese_EtoPor.txt
+1_4million_Spanish_EtoS.txt
+64_thousand_English_EtoPop.txt
+64_thousand_Papiamento_EtoPop.txt
