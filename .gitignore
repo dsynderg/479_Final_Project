@@ -23,3 +23,4 @@ bin-release/
 1_4million_Spanish_EtoS.txt
 64_thousand_English_EtoPop.txt
 64_thousand_Papiamento_EtoPop.txt
+*.txt
